@@ -4,7 +4,7 @@
 
 This repo holds all of the projects, notes, and write-ups I have done while completing the [Google Cybersecurity Professional Certificate](https://grow.google/certificates/cybersecurity/#?modal_active=none).
 
-You can view my certificate of completion on [Credly](https://www.credly.com/badges/d385ab35-be4e-4ab0-baf5-5c49dd7b8975/public_url) or [Coursera](https://coursera.org/share/89cbd526c89fe3e3015b89828686a1f9).
+You can view my certificate of completion on [Credly](https://www.credly.com/badges/16660f99-f57a-4ce6-86d6-27c31e7fcbb0/linked_in_profile) or [Coursera](https://coursera.org/share/89cbd526c89fe3e3015b89828686a1f9).
 
 In this course I gained foundational knowledge that will prepare me for entry-level jobs in cybersecurity and help me understand how security teams protect their organizations and its customers. 
 
